@@ -4,7 +4,7 @@ import Navbar from './components/Navbar'
 import Home from './components/Home'
 import Product from './components/Product'
 import About from './components/About'
-import Footer from './Components/Footer'
+import Footer from './components/Footer'
 import Contact from "./components/contact"
 
 function App() {
